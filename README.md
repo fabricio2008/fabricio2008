@@ -1,4 +1,10 @@
-## Hi there 👋
+## olá👋
+ sou fabricio, sou estudante da alura
+
+ para entrar em contato acessa aí
+
+otavio.lopes.gomes@escola.pr.gov.br
+
 
 <!--
 **fabricio2008/fabricio2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
